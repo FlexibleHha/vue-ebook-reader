@@ -1,6 +1,5 @@
 .DS_Store
 .project
-.env.development
 node_modules
 /dist
 
