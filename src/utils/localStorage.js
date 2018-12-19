@@ -61,7 +61,7 @@ export function getTheme(fileName) {
 }
 // 全局存储locale
 export function saveLocale(locale) {
-  return setLocalStorage  ('locale', locale)
+  return setLocalStorage('locale', locale)
 }
 // 全局获取locale
 export function getLocale() {
