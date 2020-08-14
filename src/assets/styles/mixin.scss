@@ -201,6 +201,7 @@ $homeAnimationTime: .5s;
   transform: translate3d(0, 100%, 0);
 }
 
+
 .opacity-slide-up-enter-active, .opacity-slide-up-leave-active {
   transition: all $homeAnimationTime linear;
 }

@@ -20,7 +20,6 @@ export const ebookMixin = {
 		]),
 		themeList() {
 			return themeList(this)
-			
     }
 	},
 	methods: {
